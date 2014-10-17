@@ -1,6 +1,6 @@
 readme.txt
 
-please submit the following schedules in order with alias and release dependencies 
+Please submit the following schedules in order with alias and release dependencies 
 
  
 MAEPROD#BRSFWBONWSX 
